@@ -1,0 +1,6 @@
+ruff
+mypy
+bandit
+pytest
+httpx
+types-requests
